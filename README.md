@@ -8,3 +8,7 @@ INPUT IMAGE
 OUTPUT IMAGE
 
 ![Screenshot 2024-11-12 191403](https://github.com/user-attachments/assets/689d9939-1975-4978-8c86-6b31cd2c0e6f)
+
+FLOWCHART
+
+![Screenshot 2024-11-17 183942](https://github.com/user-attachments/assets/0cd9d06d-6c88-44b0-b30a-9ef29e46bd9d)
