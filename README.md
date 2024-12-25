@@ -4,3 +4,7 @@ This project creates a non-invasive tool for estimating water contaminant concen
 INPUT IMAGE
 
 ![lessalgae](https://github.com/user-attachments/assets/f5b6e1e9-980c-4869-b917-de5cc4fe7d47)
+
+OUTPUT IMAGE
+
+![Screenshot 2024-11-12 191403](https://github.com/user-attachments/assets/689d9939-1975-4978-8c86-6b31cd2c0e6f)
